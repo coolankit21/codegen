@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 23 19:46:28 2023
-
-@author: vishesh
-"""
 '''
 Generated Annotation file format:
     (txt)
